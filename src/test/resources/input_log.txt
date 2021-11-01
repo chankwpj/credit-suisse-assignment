@@ -1,0 +1,14 @@
+{"id":"incomplete1","state":"STARTED", "timestamp":1635789436001}
+{"id":"alt1","state":"FINISHED","type":"APPLICATION_LOG","host":"host1","timestamp":1635789385600}
+{"id":"alt2","state":"STARTED","type":"APPLICATION_LOG","host":"host2","timestamp":1635789393134}
+{"id":"blt2","state":"STARTED", "timestamp":1635789393134}
+{"id":"alt1","state":"STARTED","type":"APPLICATION_LOG","host":"host1","timestamp":1635789375600}
+{"id":"alf1","state":"FINISHED","type":"APPLICATION_LOG","host":"host3","timestamp":1635789408468}
+{"id":"blt1","state":"STARTED", "timestamp":1635789375600}
+{"id":"alt2","state":"FINISHED","type":"APPLICATION_LOG","host":"host2","timestamp":1635789401134}
+{"id":"blt1","state":"FINISHED", "timestamp":1635789385600}
+{"id":"alf1","state":"STARTED","type":"APPLICATION_LOG","host":"host3","timestamp":1635789407468}
+{"id":"blt2","state":"FINISHED", "timestamp":1635789401134}
+{"id":"blf1","state":"STARTED", "timestamp":1635789436001}
+{"id":"blf1","state":"FINISHED", "timestamp":1635789440001}
+{"id":"incomplete2","state":"FINISHED", "timestamp":1635789436001}
